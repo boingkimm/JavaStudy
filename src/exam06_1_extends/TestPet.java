@@ -1,4 +1,4 @@
-package exam06_1_상속후;
+package exam06_1_extends;
 
 public class TestPet {
 

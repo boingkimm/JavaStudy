@@ -1,4 +1,4 @@
-package exam06_1_상속후;
+package exam06_1_extends;
 
 // Cat is a Pet ==> 상속관계
 public class Cat extends Pet{  

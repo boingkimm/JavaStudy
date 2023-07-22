@@ -1,4 +1,4 @@
-package exam07_7_loose; //DBDAO 인터페이스로 연결시
+package exam07_7_loosecoupling; //DBDAO 인터페이스로 연결시
 
 public class TestMain {
 	

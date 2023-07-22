@@ -1,4 +1,4 @@
-package exam07_7_loose;
+package exam07_7_loosecoupling;
 
 public interface DBDAO {
 
