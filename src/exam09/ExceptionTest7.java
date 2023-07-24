@@ -1,4 +1,4 @@
-package exam09;  //메서드 재정의
+package exam09;  //메서드 재정의 overriding
 
 import java.io.IOException;
 
